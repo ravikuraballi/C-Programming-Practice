@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Ravi Kuraballi/OneDrive/Desktop/demo.c",
       "program": "c:/Users/Ravi Kuraballi/OneDrive/Desktop/demo.c/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Ravi Kuraballi/Downloads/cpgm.c",
+      "program": "c:/Users/Ravi Kuraballi/Downloads/cpgm.c/build/Debug/outDebug",
+>>>>>>> 64fab1c892e2052419fadfe08832d525f0788bbb
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
