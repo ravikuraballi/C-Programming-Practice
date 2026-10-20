@@ -18,3 +18,13 @@ int main(){
     printf("sum = %d\n",a+b);
     return 0;
 }
+
+//subtract two integer
+#include<stdio.h>
+int main(){
+    int a,b;
+    scanf("%d %d",&a,&b);
+    printf("sub = %d\n",a-b);
+    printf("difference = %d\n",a-b);
+    return 0;g
+}
